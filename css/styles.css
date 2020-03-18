@@ -1,0 +1,28 @@
+h1.intro {
+font-family: Arial;
+color: #BADA55;
+text-align: center;
+}
+
+h2.intro {
+  font-style: italic;
+  font-family: Arial;
+  text-align: center;
+  color: #3F3931;
+
+}
+
+p.intro {
+  width: 50%;
+  font-family: Arial;
+  text align: center;
+}
+
+img.intro {
+    border-radius: 50%;
+ 
+}
+
+body {
+    background-color: red;
+}
